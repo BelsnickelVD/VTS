@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718236274 source:c:\users\home\desktop\c\structkol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
