@@ -12,11 +12,6 @@ float index;
 int rbr;
 };
 
-void swap(int *a, int *b){
-    int temp=*a;
-    *a=*b;
-    *b=temp;
-}
 void sortiranje(struct Podaci a[], int n){
 struct Podaci temp;
 int zamena=0;
